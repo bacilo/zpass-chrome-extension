@@ -2,7 +2,7 @@
     // Comments are accepted in the manifest, even though it is JSON.
     "manifest_version": 3,
     "name": "ZPass",
-    "description": "ZPass: Local Password Generator, don't trust no one",
+    "description": "Local Password Generator, trust no one",
     "version": "0.0.1",
     "icons": {
         "16": "logo/logo-16.png",
